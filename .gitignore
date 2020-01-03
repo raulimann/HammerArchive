@@ -1,0 +1,9 @@
+# visual studio
+*.user
+app.config
+
+# dir
+obj/
+Properties/
+bin/
+.vs/
