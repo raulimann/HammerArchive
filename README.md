@@ -35,11 +35,12 @@ The program was written and tested for Garry's Mod version 2019.12.18. But it sh
 5. Click the "New" button and select the checkbox at the new command
 6. Press the "Cmds" button on the right and select "Executable"
 7. Inside of the filedialoge navigate to the downloaded HammerArchive.exe file and press "Open"
-8. Press the "move up" button until the new command-entry is at the top of the list
-9. Pressing "Go!" will copy your "old" files, start the compile of the map and save the new configuration
+8. Click the "Parms" button and select "Map path (no filename)"
+9. Press the "move up" button until the new command-entry is at the top of the list
+10. Pressing "Go!" will copy your "old" files, start the compile of the map and save the new configuration
 
 ### Test it
-10. Now a new folder was created with a .zip inside, containing the files
+11. Now a new folder was created with a .zip inside, containing the files
 ```
 ├───Maps
 │   │
