@@ -1,0 +1,10 @@
+1. Download the latest verion from the "Files" folder or compile your own
+2. Inside of Hammer, Press F9.
+3. If not already selected, click the "[Expert...]" button
+4. Select a Configuration
+5. Click the "New" button and select the checkbox at the new command
+6. Press the "Cmds" button on the right and select "Executable"
+7. Inside of the filedialoge navigate to the downloaded HammerArchive.exe file and press "Open"
+8. Paste to the Parameters text box "$path $file" (without the quotes)
+9. Press the "move up" button until the new entry is at the top of the list
+10. Pressing "Go!" will copy your "old" files, start the compile of the map and save the new configuration
