@@ -7,6 +7,7 @@ The program was written and tested for Garry's Mod version 2019.12.18. But it sh
 ## Usage
 
 ### Set up Hammer
+1. Download the latest verion from the "Files" folder or compile your own
 2. Inside of Hammer, Press F9.
 3. If not already selected, click the "[Expert...]" button
 4. Select a Configuration
