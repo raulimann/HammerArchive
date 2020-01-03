@@ -6,28 +6,6 @@ The program was written and tested for Garry's Mod version 2019.12.18. But it sh
 
 ## Usage
 
-### Set up the file structure
-
-1. Give each map an own folder:
-
-```
-├───Maps
-│   │
-│   ├───gm_test_1
-│   │       gm_test_1.bsp
-│   │       gm_test_1.log
-│   │       gm_test_1.prt
-│   │       gm_test_1.vmf
-│   │       gm_test_1.vmx
-│   │
-│   ├───gm_test_2
-│   │       gm_test_2.bsp
-│   │       gm_test_2.log
-│   │       gm_test_2.prt
-│   │       gm_test_2.vmf
-│   │       gm_test_2.vmx
-```
-
 ### Set up Hammer
 2. Inside of Hammer, Press F9.
 3. If not already selected, click the "[Expert...]" button
@@ -35,12 +13,12 @@ The program was written and tested for Garry's Mod version 2019.12.18. But it sh
 5. Click the "New" button and select the checkbox at the new command
 6. Press the "Cmds" button on the right and select "Executable"
 7. Inside of the filedialoge navigate to the downloaded HammerArchive.exe file and press "Open"
-8. Click the "Parms" button and select "Map path (no filename)"
-9. Press the "move up" button until the new command-entry is at the top of the list
+8. Paste to the Parameters text box "$path $file" (without the quotes)
+9. Press the "move up" button until the new entry is at the top of the list
 10. Pressing "Go!" will copy your "old" files, start the compile of the map and save the new configuration
 
 ### Test it
-11. Now a new folder was created with a .zip inside, containing the files
+11. Now a new folder was created with a folder and a .zip inside, containing the files
 ```
 ├───Maps
 │   │
@@ -52,7 +30,10 @@ The program was written and tested for Garry's Mod version 2019.12.18. But it sh
 │   │       gm_test_1.vmx
 │   │
 │   ├───gm_test_1_archive
-│   │       2020-1-3-12-13-43.zip
+│   │   │
+│   │   ├───gm_test_1
+│   │       │
+│   │       ├───2020-1-3-12-13-43.zip
 │   │
 │   ├───gm_test_2
 │   │       gm_test_2.bsp
