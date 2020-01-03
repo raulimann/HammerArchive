@@ -21,27 +21,26 @@ The program was written and tested for Garry's Mod version 2019.12.18. But it sh
 ### Test it
 11. Now a new folder was created with a folder and a .zip inside, containing the files
 ```
-├───Maps
-│   │
-│   ├───gm_test_1
-│   │       gm_test_1.bsp
-│   │       gm_test_1.log
-│   │       gm_test_1.prt
-│   │       gm_test_1.vmf
-│   │       gm_test_1.vmx
-│   │
-│   ├───gm_test_1_archive
-│   │   │
-│   │   ├───gm_test_1
-│   │       │
-│   │       ├───2020-1-3-12-13-43.zip
-│   │
-│   ├───gm_test_2
-│   │       gm_test_2.bsp
-│   │       gm_test_2.log
-│   │       gm_test_2.prt
-│   │       gm_test_2.vmf
-│   │       gm_test_2.vmx
+├─garrysmod
+  ├─maps
+  │   ├─gm_test_1.bsp
+  │   ├─gm_test_1.log
+  │   ├─gm_test_1.prt
+  │   ├─gm_test_1.vmf
+  │   ├─gm_test_1.vmx
+  │   ├─gm_test_2.bsp
+  │   ├─gm_test_2.log
+  │   ├─gm_test_2.prt
+  │   ├─gm_test_2.vmf
+  │   ├─gm_test_2.vmx
+  │
+  ├─maps_archive
+  │   ├─gm_test_1
+  │       ├─2020-1-2-09-15-40.zip
+  │       ├─2020-1-3-12-00-00.zip
+  │   ├─gm_test_2
+  │       ├─2020-1-3-12-15-20.zip
+  │       ├─2020-1-3-12-35-00.zip
 ```
 
 
